@@ -1,4 +1,4 @@
-project = "your-alphanumeric-project-id"
+project = "ai-deployment-bootcamp"
 short_project_prefix = "short-prj-id"
 user = "your.user@gmail.com"
 env = "dev"
